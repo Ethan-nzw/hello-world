@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 This is the modified try for github.
 
 This is the test with the pull command.
+
+This is the test for local branch to push to remote.
